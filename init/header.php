@@ -30,9 +30,9 @@
         </div>
 
         <div class="menu-right menu-item">
-            <span class="menu-link"><a href="about.html"> About </a></span>
-            <span class="menu-link"><a href="lastestwork.html"> Lastest Work </a></span>
-            <span class="menu-link"><a href="contact.html"> Contact </a></span>
+            <span class="menu-link"><a href="about.php"> About </a></span>
+            <span class="menu-link"><a href="lastestwork.php"> Lastest Work </a></span>
+            <span class="menu-link"><a href="contact.php"> Contact </a></span>
         </div>
 
     </nav>

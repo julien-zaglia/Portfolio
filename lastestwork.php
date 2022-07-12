@@ -1,15 +1,37 @@
-<!DOCTYPE html>
-<html lang="fr">
+<?php 
+require_once ('inc/header.php');
+?>
+  <link rel="stylesheet" href="css/work.css">
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lastest Work</title>
-</head>
 
-<body>
+<main>
 
-</body>
+<div class="wrapper-img-work">
+        <div class="box-work"></div>
 
-</html>
+        <div class="box-1-work"></div>
+    </div>
+
+    <div class="box-2-work"></div>
+
+    <!-- Main Content -->
+
+    <div class="welcome">
+        <h1 class="welcome-1">MY</h1>
+        <h1 class="welcome-2">WORK</h1>
+    </div>
+
+
+    <!-- card  -->
+
+
+   
+
+</main>
+
+
+
+
+<?php 
+require_once ('inc/footer.php');
+?>

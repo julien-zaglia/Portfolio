@@ -1,0 +1,7 @@
+main {
+    background-image: url("img/Linear4-Grain2.png");
+}
+
+
+
+/* Welcome */

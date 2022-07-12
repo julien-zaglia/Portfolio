@@ -9,16 +9,17 @@ require_once ('inc/header.php');
     <!-- background -->
 
     <div class="wrapper-img">
-        <div class="box"></div>
 
         <div class="box-1"></div>
-    </div>
 
+    </div>
     <div class="box-2"></div>
+
+
 
     <!-- Main Content -->
 
-    
+
     <!-- Contents -->
     <div class="contents-container">
         <div class="sidebar-title">
